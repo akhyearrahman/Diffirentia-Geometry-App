@@ -1,0 +1,6 @@
+{
+  "name": "GeoManifold",
+  "description": "Interactive Differential Geometry studio featuring a 1-year Bengali-English micro-module roadmap, real-time vector & metric tensor visualizations, progress tracking, offline access, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

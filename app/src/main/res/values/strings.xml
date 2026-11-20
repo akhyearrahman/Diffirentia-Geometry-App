@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoManifold</string>
+    <string name="splash_tagline">আগে ছবি, পরে সমীকরণ • Geometry First, Algebra Second</string>
+    <string name="splash_enter_cta">স্টুডিওতে প্রবেশ করুন</string>
+    <string name="splash_subtitle">১ বছরের ডিফারেনশিয়াল জিওমেট্রি স্টাডি ম্যাপ ও ইন্টারেক্টিভ ল্যাব</string>
+    <string name="nav_roadmap">ম্যাপ</string>
+    <string name="nav_module_1_1">মডিউল ১.১</string>
+    <string name="nav_lab">ভেক্টর ল্যাব</string>
+    <string name="nav_progress">অগ্রগতি</string>
+    <string name="offline_ready_badge">অফলাইন প্রস্তুত</string>
+    <string name="module_completed_badge">সম্পন্ন</string>
+    <string name="module_active_badge">চলমান মডিউল</string>
+    <string name="module_upcoming_badge">আসছে শীঘ্রই</string>
+</resources>
